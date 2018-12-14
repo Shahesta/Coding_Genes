@@ -1,0 +1,328 @@
+# depslib dependency file v1.0
+1544724932 source:f:\acm\oop4\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"exceptions.h"
+	"System.h"
+
+1544538902 source:f:\acm\oop4\src\dna.cpp
+
+1544723811 source:f:\acm\oop4\dna.cpp
+	"DNA.h"
+	"RNA.cpp"
+	<fstream>
+	<iomanip>
+	<bits/stdc++.h>
+
+1544706849 f:\acm\oop4\dna.h
+	"sequence.h"
+	"RNA.h"
+	<iostream>
+	"Protein.h"
+
+1544724773 f:\acm\oop4\sequence.h
+	<iostream>
+
+1544724234 f:\acm\oop4\rna.h
+	"sequence.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<iostream>
+
+1544724904 source:f:\acm\oop4\sequence.cpp
+	"Sequence.h"
+	<fstream>
+	<iomanip>
+
+1544724427 source:f:\acm\oop4\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	<fstream>
+	<iomanip>
+
+1544724234 f:\acm\oop4\protein.h
+	"sequence.h"
+	<iostream>
+	"CodonsTable.h"
+
+1544549427 source:f:\acm\oop4\codonstable.cpp
+	"CodonsTable.h"
+	"Protein.h"
+	<fstream>
+	<iomanip>
+	<string>
+
+1544549870 f:\acm\oop4\codonstable.h
+	<string>
+
+1544724510 source:f:\acm\oop4\protein.cpp
+	"Protein.h"
+	"DNA.h"
+	<fstream>
+	<iomanip>
+
+1544725004 source:f:\acm\oop4\exceptions.cpp
+	"exceptions.h"
+
+1544718587 f:\acm\oop4\exceptions.h
+	<exception>
+
+1544724427 f:\acm\oop4\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	<fstream>
+	<iomanip>
+
+1544724549 f:\acm\oop4\system.h
+
+1544722878 source:f:\acm\oop4\system.cpp
+	"System.h"
+	<iostream>
+
+1544549428 source:c:\users\suhail\desktop\errors\codonstable.cpp
+	"CodonsTable.h"
+	"Protein.h"
+	<fstream>
+	<iomanip>
+	<string>
+
+1544549872 c:\users\suhail\desktop\errors\codonstable.h
+	<string>
+
+1544731938 c:\users\suhail\desktop\errors\protein.h
+	"sequence.h"
+	<iostream>
+	"CodonsTable.h"
+
+1544735394 c:\users\suhail\desktop\errors\sequence.h
+	<iostream>
+
+1544732301 source:c:\users\suhail\desktop\errors\dna.cpp
+	"DNA.h"
+	"RNA.cpp"
+	<fstream>
+	<iomanip>
+	<bits/stdc++.h>
+
+1544732277 c:\users\suhail\desktop\errors\dna.h
+	"sequence.h"
+	"RNA.h"
+	<iostream>
+	"Protein.h"
+
+1544731949 c:\users\suhail\desktop\errors\rna.h
+	"sequence.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<iostream>
+
+1544724428 c:\users\suhail\desktop\errors\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	<fstream>
+	<iomanip>
+
+1544725006 source:c:\users\suhail\desktop\errors\exceptions.cpp
+	"exceptions.h"
+
+1544718588 c:\users\suhail\desktop\errors\exceptions.h
+	<exception>
+
+1544734649 source:c:\users\suhail\desktop\errors\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"exceptions.h"
+	"System.h"
+
+1544724550 c:\users\suhail\desktop\errors\system.h
+
+1544732202 source:c:\users\suhail\desktop\errors\protein.cpp
+	"Protein.h"
+	"DNA.h"
+	<fstream>
+	<iomanip>
+
+1544724428 source:c:\users\suhail\desktop\errors\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	<fstream>
+	<iomanip>
+
+1544734267 source:c:\users\suhail\desktop\errors\sequence.cpp
+	"Sequence.h"
+	<fstream>
+	<iomanip>
+
+1544722880 source:c:\users\suhail\desktop\errors\system.cpp
+	"System.h"
+	<iostream>
+
+1544817492 source:f:\acm\errors v2\system.cpp
+	"System.h"
+	<iostream>
+
+1544817492 f:\acm\errors v2\system.h
+
+1544817381 source:f:\acm\errors v2\codonstable.cpp
+	"CodonsTable.h"
+	"Protein.h"
+	<fstream>
+	<iomanip>
+	<string>
+
+1544817381 f:\acm\errors v2\codonstable.h
+	<string>
+
+1544817381 f:\acm\errors v2\protein.h
+	"sequence.h"
+	<iostream>
+	"CodonsTable.h"
+
+1544817381 f:\acm\errors v2\sequence.h
+	<iostream>
+	<cstring>
+	<algorithm>
+
+1544819130 source:f:\acm\errors v2\dna.cpp
+	"DNA.h"
+	"RNA.cpp"
+	<fstream>
+	<iomanip>
+	<bits/stdc++.h>
+
+1544817381 f:\acm\errors v2\dna.h
+	"sequence.h"
+	"RNA.h"
+	<iostream>
+	"Protein.h"
+
+1544817381 f:\acm\errors v2\rna.h
+	"sequence.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<iostream>
+
+1544817381 f:\acm\errors v2\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	<fstream>
+	<iomanip>
+
+1544778994 source:f:\acm\errors v2\exceptions.cpp
+	"exceptions.h"
+
+1544778994 f:\acm\errors v2\exceptions.h
+	<exception>
+
+1544781372 source:f:\acm\errors v2\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"exceptions.h"
+	"System.h"
+
+1544817381 source:f:\acm\errors v2\protein.cpp
+	"Protein.h"
+	"DNA.h"
+	<fstream>
+	<iomanip>
+
+1544817381 source:f:\acm\errors v2\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	<fstream>
+	<iomanip>
+
+1544813783 source:f:\acm\errors v2\sequence.cpp
+	"Sequence.h"
+	<fstream>
+	<iomanip>
+
+1544817382 source:c:\users\suhail\desktop\errors v2\codonstable.cpp
+	"CodonsTable.h"
+	"Protein.h"
+	<fstream>
+	<iomanip>
+	<string>
+
+1544817382 c:\users\suhail\desktop\errors v2\codonstable.h
+	<string>
+
+1544817382 c:\users\suhail\desktop\errors v2\protein.h
+	"sequence.h"
+	<iostream>
+	"CodonsTable.h"
+
+1544822551 c:\users\suhail\desktop\errors v2\sequence.h
+	<iostream>
+	<cstring>
+	<algorithm>
+
+1544819132 source:c:\users\suhail\desktop\errors v2\dna.cpp
+	"DNA.h"
+	"RNA.cpp"
+	<fstream>
+	<iomanip>
+	<bits/stdc++.h>
+
+1544817382 c:\users\suhail\desktop\errors v2\dna.h
+	"sequence.h"
+	"RNA.h"
+	<iostream>
+	"Protein.h"
+
+1544817382 c:\users\suhail\desktop\errors v2\rna.h
+	"sequence.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<iostream>
+
+1544817382 c:\users\suhail\desktop\errors v2\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	<fstream>
+	<iomanip>
+
+1544817382 source:c:\users\suhail\desktop\errors v2\protein.cpp
+	"Protein.h"
+	"DNA.h"
+	<fstream>
+	<iomanip>
+
+1544817382 source:c:\users\suhail\desktop\errors v2\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	<fstream>
+	<iomanip>
+
+1544822570 source:c:\users\suhail\desktop\errors v2\sequence.cpp
+	"Sequence.h"
+	<fstream>
+	<iomanip>
+
+1544817494 source:c:\users\suhail\desktop\errors v2\system.cpp
+	"System.h"
+	<iostream>
+
+1544817494 c:\users\suhail\desktop\errors v2\system.h
+
+1544821795 source:c:\users\suhail\desktop\errors v2\exceptions.cpp
+	"exceptions.h"
+
+1544821724 c:\users\suhail\desktop\errors v2\exceptions.h
+	<exception>
+
+1544822455 source:c:\users\suhail\desktop\errors v2\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"exceptions.h"
+	"System.h"
+	<set>
+
